@@ -30,7 +30,7 @@ The project employs seven classification models to predict tumor type:
 
 ## Accuracy Scores
 
-The accuracy scores for each classification model are as follows:
+The accuracy scores for each classification model before hyperparameter tuning are as follows:
 
 - **SVM:** 94.152%
 - **Random Forest:** 92.982%
